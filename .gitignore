@@ -14,6 +14,8 @@ ecg-arrhythmia-1.0.0-chapman
 *.zip
 processed_data
 processed_chapman
+physiodks_cache
+physiodks_runs
 ptbxl_cache
 ptbxl_runs
 
