@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+#Research database 
+PTBXL dataset
+ptb-xl-plus-1.0.1
+ptbxl_feature_benchmark-v1.0.0
+ecg-arrhythmia-1.0.0-chapman
+*.zip
+processed_data
+processed_chapman
+ptbxl_cache
+ptbxl_runs
+
 # Distribution / packaging
 .Python
 build/
